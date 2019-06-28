@@ -1,6 +1,6 @@
 ### 1D Median filter
 
-Simple 1D median filter with a test application and small benchmark, implemented with ```std::multimap```.
+Simple 1D median filter with a test application and small benchmark, implemented with ```std::multiset```.
 
 Compile for example on Linux with:
 
